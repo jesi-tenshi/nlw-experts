@@ -125,6 +125,10 @@ const perguntas = [
         }
   
         mostrarTotal.textContent = corretas.size + ' de ' + totalDePerguntas
+        if(corretas.size == totalDePerguntas){
+          alert("parabens")
+        }
+
       } 
     
       //appendChild = coloca um valor dentro d outro
