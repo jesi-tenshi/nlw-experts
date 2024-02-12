@@ -3,16 +3,16 @@ const perguntas = [
     pergunta: "Qual é o nome do mapa principal de League of Legends?",
     respostas: [
       "Summoner's Rift",
-      "Howling Abyss",
-      "Twisted Treeline",
+      "Summoner's Drift",
+      "Casa da Rito Gomes",
     ],
     correta: 0
   },
   {
     pergunta: "Qual é o objetivo principal em Summoner's Rift?",
     respostas: [
-      "Destruir a torre inimiga",
-      "Matar os monstros da selva",
+      "Fazer a play e mostrar maestria",
+      "Tiltar os inimigos e os aliados",
       "Destruir o Nexus inimigo",
     ],
     correta: 2
@@ -40,7 +40,7 @@ const perguntas = [
     respostas: [
       "International Championship",
       "Worlds",
-      "League Cup",
+      "CBLOL",
     ],
     correta: 1
   },
@@ -49,25 +49,25 @@ const perguntas = [
     respostas: [
       "2",
       "3",
-      "4",
+      "mid",
     ],
     correta: 1
   },
   {
     pergunta: "Qual é o nome do monstro épico localizado no rio em Summoner's Rift?",
     respostas: [
-      "Elder Dragon",
-      "Baron Nashor",
-      "Rift Herald",
+      "Dragon",
+      "Baronzin",
+      "Banguela",
     ],
     correta: 1
   },
   {
     pergunta: "Qual é o nome do modo de jogo onde os jogadores devem destruir a base inimiga enquanto controlam um único campeão?",
     respostas: [
-      "ARAM",
-      "Urf",
-      "Clássico",
+      "LoL",
+      "LoL",
+      "LoL",
     ],
     correta: 0
   },
@@ -76,7 +76,7 @@ const perguntas = [
     respostas: [
       "LCS",
       "LCK",
-      "LPL",
+      "ADC",
     ],
     correta: 0
   },
@@ -84,7 +84,7 @@ const perguntas = [
     pergunta: "Qual é o nome do evento que introduz skins temáticas e modos de jogo exclusivos por tempo limitado?",
     respostas: [
       "April Fools' Day",
-      "Harrowing",
+      "Lux Day's",
       "Snowdown Showdown",
     ],
     correta: 2
