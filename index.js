@@ -1,95 +1,95 @@
 const perguntas = [
-    {
-      pergunta: "Qual é o plural de 'book'?",
-      respostas: [
-        "books",
-        "bookies",
-        "bookses",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a forma correta do verbo 'to be' na terceira pessoa do singular no presente simples?",
-      respostas: [
-        "am",
-        "are",
-        "is",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a preposição correta para indicar posse?",
-      respostas: [
-        "in",
-        "at",
-        "of",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a forma correta do superlativo de 'good'?",
-      respostas: [
-        "gooder",
-        "more good",
-        "best",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a forma correta do comparativo de 'far'?",
-      respostas: [
-        "farther",
-        "more far",
-        "farrer",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o tempo verbal utilizado para expressar ações concluídas em um momento específico no passado?",
-      respostas: [
-        "present perfect",
-        "past continuous",
-        "simple past",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a forma correta da frase negativa na terceira pessoa do singular no presente simples do verbo 'to do'?",
-      respostas: [
-        "He don't",
-        "He doesn't",
-        "He didn't",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é o pronome possessivo para 'she'?",
-      respostas: [
-        "her",
-        "hers",
-        "she's",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a forma correta do verbo 'to eat' na terceira pessoa do plural no presente simples?",
-      respostas: [
-        "eat",
-        "eats",
-        "ate",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a conjunção correta para adicionar uma ideia similar?",
-      respostas: [
-        "but",
-        "and",
-        "so",
-      ],
-      correta: 1
-    },
-  ];
+  {
+    pergunta: "Qual é o nome do mapa principal de League of Legends?",
+    respostas: [
+      "Summoner's Rift",
+      "Howling Abyss",
+      "Twisted Treeline",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o objetivo principal em Summoner's Rift?",
+    respostas: [
+      "Destruir a torre inimiga",
+      "Matar os monstros da selva",
+      "Destruir o Nexus inimigo",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é o nome do evento anual que celebra o aniversário de League of Legends?",
+    respostas: [
+      "Worlds",
+      "All-Stars",
+      "Leagueiversary",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é o nome da empresa responsável pelo desenvolvimento de League of Legends?",
+    respostas: [
+      "Blizzard",
+      "Riot Games",
+      "Valve",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o nome do campeonato mundial de League of Legends?",
+    respostas: [
+      "International Championship",
+      "Worlds",
+      "League Cup",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quantas rotas principais existem em Summoner's Rift?",
+    respostas: [
+      "2",
+      "3",
+      "4",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o nome do monstro épico localizado no rio em Summoner's Rift?",
+    respostas: [
+      "Elder Dragon",
+      "Baron Nashor",
+      "Rift Herald",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o nome do modo de jogo onde os jogadores devem destruir a base inimiga enquanto controlam um único campeão?",
+    respostas: [
+      "ARAM",
+      "Urf",
+      "Clássico",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o nome do torneio regional norte-americano de League of Legends?",
+    respostas: [
+      "LCS",
+      "LCK",
+      "LPL",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o nome do evento que introduz skins temáticas e modos de jogo exclusivos por tempo limitado?",
+    respostas: [
+      "April Fools' Day",
+      "Harrowing",
+      "Snowdown Showdown",
+    ],
+    correta: 2
+  },
+];
   
   // querySeletor pega o que é do HTML
   const quiz =document.querySelector('#quiz') 
