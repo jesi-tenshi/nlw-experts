@@ -1,93 +1,93 @@
 const perguntas = [
   {
-    pergunta: "Qual é o nome do mapa principal de League of Legends?",
+    pergunta: "Como se diz 'cuidadora de idosos' em japonês?",
     respostas: [
-      "Summoner's Rift",
-      "Summoner's Drift",
-      "Casa da Rito Gomes",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é o objetivo principal em Summoner's Rift?",
-    respostas: [
-      "Fazer a play e mostrar maestria",
-      "Tiltar os inimigos e os aliados",
-      "Destruir o Nexus inimigo",
+      "お医者さん (Oishasan)",
+      "看護師 (Kangoshi)",
+      "介護士 (Kaigo-shi)",
     ],
     correta: 2
   },
   {
-    pergunta: "Qual é o nome do evento anual que celebra o aniversário de League of Legends?",
+    pergunta: "Qual partícula é usada para indicar a pessoa que está recebendo cuidados?",
     respostas: [
-      "Worlds",
-      "All-Stars",
-      "Leagueiversary",
-    ],
-    correta: 2
-  },
-  {
-    pergunta: "Qual é o nome da empresa responsável pelo desenvolvimento de League of Legends?",
-    respostas: [
-      "Blizzard",
-      "Riot Games",
-      "Valve",
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Qual é o nome do campeonato mundial de League of Legends?",
-    respostas: [
-      "International Championship",
-      "Worlds",
-      "CBLOL",
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Quantas rotas principais existem em Summoner's Rift?",
-    respostas: [
-      "2",
-      "3",
-      "mid",
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Qual é o nome do monstro épico localizado no rio em Summoner's Rift?",
-    respostas: [
-      "Dragon",
-      "Baronzin",
-      "Banguela",
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Qual é o nome do modo de jogo onde os jogadores devem destruir a base inimiga enquanto controlam um único campeão?",
-    respostas: [
-      "LoL",
-      "LoL",
-      "LoL",
+      "を (wo)",
+      "が (ga)",
+      "に (ni)",
     ],
     correta: 0
   },
   {
-    pergunta: "Qual é o nome do torneio regional norte-americano de League of Legends?",
+    pergunta: "Qual verbo é usado para descrever a ação de 'ajudar' em japonês?",
     respostas: [
-      "LCS",
-      "LCK",
-      "ADC",
+      "歌う (Utau)",
+      "手伝う (Tetsudau)",
+      "食べる (Taberu)",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o pronome correto para se referir a uma pessoa idosa em japonês?",
+    respostas: [
+      "私 (Watashi)",
+      "あなた (Anata)",
+      "お年寄り (Otosan)",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual partícula é usada para indicar posse ou pertencimento em japonês?",
+    respostas: [
+      "が (ga)",
+      "へ (he)",
+      "の (no)",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é a forma correta do verbo 'to listen' em japonês?",
+    respostas: [
+      "見る (Miru)",
+      "聞く (Kiku)",
+      "話す (Hanasu)",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a partícula usada para expressar ações em andamento em japonês?",
+    respostas: [
+      "を (wo)",
+      "が (ga)",
+      "ています (teimasu)",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é o adjetivo correto para descrever alguém que é 'paciente' em japonês?",
+    respostas: [
+      "元気な (Genkina)",
+      "優しい (Yasashii)",
+      "辛抱強い (Shinbouzuyoi)",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é a partícula usada para indicar a direção ou destino em japonês?",
+    respostas: [
+      "へ (he)",
+      "で (de)",
+      "に (ni)",
     ],
     correta: 0
   },
   {
-    pergunta: "Qual é o nome do evento que introduz skins temáticas e modos de jogo exclusivos por tempo limitado?",
+    pergunta: "Qual é a forma correta do verbo 'to eat' em japonês?",
     respostas: [
-      "April Fools' Day",
-      "Lux Day's",
-      "Snowdown Showdown",
+      "食べる (Taberu)",
+      "飲む (Nomu)",
+      "寝る (Neru)",
     ],
-    correta: 2
+    correta: 0
   },
 ];
   
